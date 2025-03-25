@@ -1,1 +1,1 @@
-This is example of text.
+This is example of text having been changed.
